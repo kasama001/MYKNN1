@@ -6,7 +6,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 import numpy as np
 
-st.subheader("Kasama Hongtong")
+st.subheader("Kasama Hongtong 654230001 65/41")
 st.header("การจำแนกข้อมูลดอกไม้")
 st.image('./img/1.jpg')
 
